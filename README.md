@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋,I'm YukthaNagaraj 
 
 # 💫 About Me:
 mobile application development projects using React Native and backend with django<br>I'm looking to collaborate on real-world app development and innovative tech projects<br>I'm looking for help with improving my full-stack development skills.<br>Ask me about mobile application development, programming, React Native and python<br>Reach out to me at yukthanagaraj13@gmail.com
