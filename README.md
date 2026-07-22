@@ -13,7 +13,7 @@ About Me
 <br>Always exploring emerging technologies and building practical, real-world projects.<br>
 <br>Open to collaborating on AI, Full-Stack, and Mobile Application Development projects.<br>
 
-##Artificial Intelligence
+##Artificial Intelligence<br>
 Agentic AI
 Prompt Engineering
 Large Language Models (LLMs)
@@ -24,7 +24,7 @@ AI Content Generation
 AI Research
 AI Automation
 SEO (Search Engine Optimization)
-AEO (Answer Engine Optimization)
+AEO (Answer Engine Optimization)</br>
 
 ##Programming Languages
 Python
