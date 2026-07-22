@@ -6,8 +6,6 @@ Computer Science and Design Undergraduate
 
 Passionate about building AI-powered software, scalable full-stack applications, and mobile applications that solve real-world problems.
 
----
-
 #  About Me
 
 - AI Software Engineer focused on intelligent application development.
@@ -17,8 +15,6 @@ Passionate about building AI-powered software, scalable full-stack applications,
 - Interested in AI-powered automation, workflow orchestration, and intelligent software systems.
 - Always exploring emerging technologies and building practical, real-world projects.
 - Open to collaborating on **AI**, **Full-Stack**, and **Mobile Application Development** projects.
-
----
 
 # Artificial Intelligence
 
@@ -34,7 +30,6 @@ Passionate about building AI-powered software, scalable full-stack applications,
 - SEO (Search Engine Optimization)
 - AEO (Answer Engine Optimization)
 
----
 
 # Programming Languages
 
@@ -43,7 +38,6 @@ Passionate about building AI-powered software, scalable full-stack applications,
 - C
 - C++
 
----
 
 # Frontend Development
 
@@ -64,14 +58,12 @@ Passionate about building AI-powered software, scalable full-stack applications,
 - REST API Development
 - JWT Authentication
 
----
 
 # Databases
 
 - MongoDB
 - MySQL
 
----
 
 #  Full-Stack Development
 
@@ -80,8 +72,6 @@ Passionate about building AI-powered software, scalable full-stack applications,
 - API Integration
 - Responsive Web Design
 - Authentication & Authorization
-
----
 
 # Tools & Platforms
 
@@ -93,8 +83,7 @@ Passionate about building AI-powered software, scalable full-stack applications,
 - Google Sheets API
 - NewsAPI
 - Groq API
-
----
+  
 Email: yukthanagaraj13@gmail.com  <br> LinkedIn: https://www.linkedin.com/in/yukthanagaraj  <br> GitHub: https://github.com/yukthanagaraj<br>Always learning, building, and improving.
 
 
