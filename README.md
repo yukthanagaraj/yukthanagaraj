@@ -5,13 +5,14 @@
 Passionate Computer Science and Design undergraduate with hands-on experience in Artificial Intelligence, Agentic AI, Full-Stack Development, and Mobile Application Development. I enjoy building intelligent software solutions using modern AI technologies, scalable backend systems, and responsive user interfaces to solve real-world problems.
 
 About Me
-AI Software Engineer focused on intelligent application development.
-Experienced in Agentic AI, Prompt Engineering, and Large Language Model (LLM) applications.
-Specialized in cross-platform Mobile Application Development using React Native.
-Passionate about Full-Stack Development using React.js, Node.js, Express.js, Django, and MongoDB.
-Interested in AI-powered automation, workflow orchestration, and intelligent software systems.
-Always exploring emerging technologies and building practical, real-world projects.
-Open to collaborating on AI, Full-Stack, and Mobile Application Development projects.
+<br>AI Software Engineer focused on intelligent application development.<br>
+<br>Experienced in Agentic AI, Prompt Engineering, and Large Language Model (LLM) applications.<br>
+<br>Specialized in cross-platform Mobile Application Development using React Native.<br>
+<br>Passionate about Full-Stack Development using React.js, Node.js, Express.js, Django, and MongoDB.<br>
+<br>Interested in AI-powered automation, workflow orchestration, and intelligent software systems.<br>
+<br>Always exploring emerging technologies and building practical, real-world projects.<br>
+<br>Open to collaborating on AI, Full-Stack, and Mobile Application Development projects.<br>
+
 ##Artificial Intelligence
 Agentic AI
 Prompt Engineering
