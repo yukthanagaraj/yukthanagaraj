@@ -1,6 +1,71 @@
 ## Hi👋,I'm YukthaNagaraj 
 # 💫 About Me:
-👋 Hi, I'm Yuktha Nagaraj<br> AI Software Engineer| Full-Stack Developer  <br> React Native | Python Django |  React.js |  MERN Stack (Learning)<br> About Me<br>-  I specialize in Mobile Application Development using React Native<br>-  Strong interest in Full-Stack Development (Frontend + Backend)<br>-  Building scalable backend systems using Python Django<br>-  Passionate about creating real-world, impactful applications<br>- Open to collaborating on innovative tech projects<br><br>Frontend:<br>- React.js<br>- React Native<br>- HTML, CSS, JavaScript<br>Backend:<br>- Python (Django)<br>- Node.js (basic knowledge)<br>Database:<br>- MySQL<br>- MongoDB<br>Currently Learning:<br>- MERN Stack (MongoDB, Express.js, React.js, Node.js)<br>Tools & Platforms:<br>- Git & GitHub<br>- REST APIs<br>- VS Code<br>##  Current Goals<br>-  Improve Full-Stack Development skills<br>-  Build real-world mobile applications<br>-  Work on production-level projects<br>-  Get placed in a top tech company<br>## Contact Me<br> Email: yukthanagaraj13@gmail.com  <br> LinkedIn: https://www.linkedin.com/in/yukthanagaraj  <br> GitHub: https://github.com/yukthanagaraj<br>Always learning, building, and improving.
+👋 Hi, I'm Yuktha Nagaraj<br> AI Software Engineer | Full-Stack Developer | Mobile Application Developer
+
+Passionate Computer Science and Design undergraduate with hands-on experience in Artificial Intelligence, Agentic AI, Full-Stack Development, and Mobile Application Development. I enjoy building intelligent software solutions using modern AI technologies, scalable backend systems, and responsive user interfaces to solve real-world problems.
+
+About Me
+AI Software Engineer focused on intelligent application development.
+Experienced in Agentic AI, Prompt Engineering, and Large Language Model (LLM) applications.
+Specialized in cross-platform Mobile Application Development using React Native.
+Passionate about Full-Stack Development using React.js, Node.js, Express.js, Django, and MongoDB.
+Interested in AI-powered automation, workflow orchestration, and intelligent software systems.
+Always exploring emerging technologies and building practical, real-world projects.
+Open to collaborating on AI, Full-Stack, and Mobile Application Development projects.
+##Artificial Intelligence
+Agentic AI
+Prompt Engineering
+Large Language Models (LLMs)
+AI Workflow Automation
+Multi-Agent Systems
+AI Search & Information Retrieval
+AI Content Generation
+AI Research
+AI Automation
+SEO (Search Engine Optimization)
+AEO (Answer Engine Optimization)
+
+##Programming Languages
+Python
+JavaScript
+C
+C++
+
+##Frontend Development
+React.js
+React Native
+HTML5
+CSS3
+JavaScript
+
+##Backend Development
+Python (Django)
+Django REST Framework
+Node.js
+Express.js
+REST API Development
+JWT Authentication
+
+##Databases
+MongoDB
+MySQL
+Full-Stack Development
+MERN Stack
+RESTful APIs
+API Integration
+Responsive Web Design
+Authentication & Authorization
+
+##Tools & Platforms
+Git
+GitHub
+VS Code
+Antigravity IDE
+Postman
+Google Sheets API
+NewsAPI
+Groq API
+Email: yukthanagaraj13@gmail.com  <br> LinkedIn: https://www.linkedin.com/in/yukthanagaraj  <br> GitHub: https://github.com/yukthanagaraj<br>Always learning, building, and improving.
 
 
 ## 🌐 Socials:
